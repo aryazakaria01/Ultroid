@@ -7,18 +7,18 @@
 
 <b>A stable pluggable Telegram userbot + Voice & Video Call music bot, based on Telethon.</b>   
 
-[![Stars](https://img.shields.io/github/stars/TeamUltroid/Ultroid?style=flat-square&color=yellow)](https://github.com/TeamUltroid/Ultroid/stargazers)
-[![Forks](https://img.shields.io/github/forks/TeamUltroid/Ultroid?style=flat-square&color=orange)](https://github.com/TeamUltroid/Ultroid/fork)
-[![Size](https://img.shields.io/github/repo-size/TeamUltroid/Ultroid?style=flat-square&color=green)](https://github.com/TeamUltroid/Ultroid/)   
-[![Python](https://img.shields.io/badge/Python-v3.9.7-blue)](https://www.python.org/)
-[![CodeFactor](https://www.codefactor.io/repository/github/teamultroid/ultroid/badge/main)](https://www.codefactor.io/repository/github/teamultroid/ultroid/overview/main)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/TeamUltroid/Ultroid/graphs/commit-activity)
-[![Docker Pulls](https://img.shields.io/docker/pulls/theteamultroid/ultroid?style=flat-square)](https://img.shields.io/docker/pulls/theteamultroid/ultroid?style=flat-square)
+[![Stars](https://img.shields.io/github/stars/aryazakaria01/Ultroid?style=flat-square&color=yellow)](https://github.com/aryazakaria01/Ultroid/stargazers)
+[![Forks](https://img.shields.io/github/forks/aryazakaria01/Ultroid?style=flat-square&color=orange)](https://github.com/aryazakaria01/Ultroid/fork)
+[![Size](https://img.shields.io/github/repo-size/aryazakaria01/Ultroid?style=flat-square&color=green)](https://github.com/aryazakaria01/Ultroid/)   
+[![Python](https://img.shields.io/badge/Python-v3.10.0rc2-blue)](https://www.python.org/)
+[![CodeFactor](https://www.codefactor.io/repository/github/aryazakaria01/Ultroid/badge/main)](https://www.codefactor.io/repository/github/aryazakaria01/Ultroid/overview/main)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/aryazakaria01/Ultroid/graphs/commit-activity)
+[![Docker Pulls](https://img.shields.io/docker/pulls/aryazakaria01/Ultroid?style=flat-square)](https://img.shields.io/docker/pulls/aryazakaria01/Ultroid?style=flat-square)
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TeamUltroid/Ultroid)   
-[![Contributors](https://img.shields.io/github/contributors/TeamUltroid/Ultroid?style=flat-square&color=green)](https://github.com/TeamUltroid/Ultroid/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/aryazakaria01/Ultroid?style=flat-square&color=green)](https://github.com/aryazakaria01/Ultroid/graphs/contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/TeamUltroid/Ultroid/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/Teamultroid/Ultroid.svg)](https://stars.medv.io/TeamUltroid/Ultroid)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/aryazakaria01/Ultroid/blob/main/LICENSE)
+[![Sparkline](https://stars.medv.io/aryazakaria01/Ultroid.svg)](https://stars.medv.io/aryazakaria01/Ultroid)
 ----
 
 # Deploy
@@ -37,7 +37,7 @@
 ## Deploy to Heroku
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FNew-dev0%2FArchived&template=https%3A%2F%2Fgithub.com%2FNew-dev0%2FArchived)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/aryazakaria01/Ultroid)
 
 ## Deploy Locally
 - [Traditional Method](#local-deploy---traditional-method)
@@ -111,4 +111,3 @@ Ultroid is licensed under [GNU Affero General Public License](https://www.gnu.or
 * [![TeamUltroid-Devs](https://img.shields.io/static/v1?label=Teamultroid&message=devs&color=critical)](https://t.me/UltroidDevs)
 * [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
 * [MarshalX](https://github.com/MarshalX) for [PyTgCalls.](https://github.com/MarshalX/tgcalls)
-
