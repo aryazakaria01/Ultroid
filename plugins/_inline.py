@@ -43,8 +43,8 @@ upage = 0
 
 SUP_BUTTONS = [
     [
-        Button.url("• Repo •", url="https://github.com/TeamUltroid/Ultroid"),
-        Button.url("• Support •", url="t.me/UltroidSupport"),
+        Button.url("• Channel •", url="t.me/CyberMusicProject"),
+        Button.url("• Support •", url="t.me/CyberSupportGroup"),
     ],
 ]
 
@@ -70,7 +70,7 @@ async def inline_alive(o):
             content=InputWebDocument(TLINK, 0, "image/jpg", []),
         )
     ]
-    await o.answer(RES, switch_pm="👥 ULTROID PORTAL", switch_pm_param="start")
+    await o.answer(RES, switch_pm="👥 CYBER PORTAL", switch_pm_param="start")
 
 
 @in_pattern("ultd", owner=True)
@@ -108,7 +108,7 @@ async def _(event):
     raw = f"https://spaceb.in/api/v1/documents/{ok}/raw"
     result = await event.builder.article(
         title="Paste",
-        text="Pasted to Spacebin 🌌",
+        text="Pasted to Spacebin",
         buttons=[
             [
                 Button.url("SpaceBin", url=link),
