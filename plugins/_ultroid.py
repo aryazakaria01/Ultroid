@@ -17,7 +17,7 @@ REPOMSG = """
 • **CYBER USERBOT** •\n
 • Github  - [Click Here](https://github.com/aryazakaria01)
 • Channel - [Click Here](https://t.me/CyberMusicProject)
-• Support - @UltroidSupport
+• Support - @NatsunagiCorporationGroup
 """
 
 RP_BUTTONS = [
@@ -25,7 +25,7 @@ RP_BUTTONS = [
         Button.url(get_string("bot_3"), "https://github.com/aryazakaria01"),
         Button.url("Channel", "https://t.me/CyberMusicProject"),
     ],
-    [Button.url("Support Group", "t.me/CyberSupportGrpup")],
+    [Button.url("Support Group", "t.me/NatsunagiCorporationGroup")],
 ]
 
 ULTSTRING = """🎇 **Thanks for Deploying Cyber Userbot!**
